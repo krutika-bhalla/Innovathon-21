@@ -11,6 +11,3 @@ function Card(props) {
 }
 
 export default Card;
-
-// testing g
-// testing k
