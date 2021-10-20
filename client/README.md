@@ -1,269 +1,283 @@
-# [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fpurity-ui-dashboard%2F&text=Check%20Purity%20UI%20Dashboard%20made%20by%20%40CreativeTim%20%26%20%40simmmple_web)
+# [Argon Dashboard Django](https://www.creative-tim.com/product/argon-dashboard-django) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard,%20a%20free%20Material%20Bootstrap%204%20Admin%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2Lyat1Y%20%23bootstrap%20%23material%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/purity-ui-dashboard.svg?maxAge=2592000)](https://github.com/creativetimofficial/purity-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/purity-ui-dashboard.svg?maxAge=2592000)](https://github.com/creativetimofficial/purity-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+ ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](https://i.ibb.co/7NXMZQS/Cover-Purity-Chakra-FREE-Thumbnail.png)
+Open-source **[Django Template](https://www.creative-tim.com/templates/django)** crafted on top of **Argon Dashboard**, a modern Bootstrap 4 design. Start your development with a modern Bootstrap 4 Admin template for Django. Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. If you want to code faster, with a smooth workflow, then you should try this template carefully developed with Django, a well-known Python Framework. **Django codebase** is crafted using a simple, modular structure that follows the best practices and provides authentication, database configuration, and deployment scripts for Docker and Gunicorn/Nginx stack. 
 
-Most trendiest, complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/?ref=readme-pud) & [Simmmple](https://simmmple.com?ref=readme-pud). Check our latest Free ReactJS Dashboard based on Chakra UI.
+- Up-to-date [dependencies](./requirements.txt): **Django 3.2.6 LTS**
+- [SCSS compilation](#recompile-css) via **Gulp**
+- UI Kit: **Argon Dashboard** (Free Version)
+- Django Codebase - provided by **[AppSeed](https://appseed.us/)**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
 
-Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps.
+<br />
 
-We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
+![Argon Dashboard Django - Admin Dashboard coded in Django.](https://github.com/creativetimofficial/argon-dashboard-django/blob/master/media/argon-dashboard-django-screen.png)
 
-**Fully Coded Elements**
-
-Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Chakra UI Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
-
-Check all components <a href="https://demos.creative-tim.com/docs-purity-ui-dashboard/?ref=readme-pud" target="_blank">here</a>.
-
-**Documentation built by Developers**
-
-Each element is well presented in a very complex documentation.
-You can read more about the <a href="https://demos.creative-tim.com/docs-purity-ui-dashboard/?ref=readme-pud" target="_blank">documentation here</a>.
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-View <a href="https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?ref=readme-pud" target="_blank">example pages here</a>.
-
-**HELPFUL LINKS**
-
-- View <a href="https://github.com/creativetimofficial/purity-ui-dashboard" target="_blank">Github Repository</a>
-
-- Check <a href="https://www.creative-tim.com/knowledge-center?ref=readme-pud" target="_blank">FAQ Page</a>
-
-#### Special thanks
-
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-
-- [Chakra UI](https://www.chakra-ui.com?ref=creative-tim) - Open source ReactJS framework
-- [ApexCharts.js](https://apexcharts.com?ref=creative-tim) - Modern & Interactive Open-source charts
-- [ReactJS](https://reactjs.org?ref=creative-tim) - A popular JavaScript library for building user interfaces
-
-Let us know your thoughts below. And good luck with development!
+<br />
 
 ## Table of Contents
 
-- [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?ref=readme-pud)
-- [Table of Contents](#table-of-contents)
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
-- [Social Media](#social-media)
+* [Demo](#demo)
+* [Quick Start](#quick-start)
+* [Documentation](#documentation)
+* [File Structure](#file-structure)
+* [Browser Support](#browser-support)
+* [Resources](#resources)
+* [Reporting Issues](#reporting-issues)
+* [Technical Support or Questions](#technical-support-or-questions)
+* [Licensing](#licensing)
+* [Useful Links](#useful-links)
 
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/purity-ui-dashboard?ref=readme-pud)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/purity-ui-dashboard?ref=readme-pud)
-
-| React                                                                                                                                                                                        | Figma                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Purity Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Purity-Chakra-FREE-Thumbnail-React-JS.png)](https://www.creative-tim.com/product/purity-ui-dashboard?ref=readme-pud) | [![Purity Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Purity-Chakra-FREE-Thumbnail-Figma.png)](https://www.creative-tim.com/product/purity-ui-dashboard?ref=readme-pud) |
+<br />
 
 ## Demo
 
-- [Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?ref=readme-pud)
-- [Tables page](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/tables?ref=readme-pud)
-- [Billing page](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/billing?ref=readme-pud)
-- [Profile page](http://demos.creative-tim.com/purity-ui-dashboard/#/admin/profile?ref=readme-pud)
-- [Sign in page](https://demos.creative-tim.com/purity-ui-dashboard/#/auth/signin?ref=readme-pud)
-- [Sign up page](https://demos.creative-tim.com/purity-ui-dashboard/#/auth/signup?ref=readme-pud)
+> To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the **registration page**.
 
-[View More](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?ref=readme-pud).
+- **Argon Dashboard Django** [Login Page](https://www.creative-tim.com/live/argon-dashboard-django)
+- **[Django Argon Charts](https://github.com/app-generator/django-argon-charts)** - sample projects that showcase real information in charts 
 
-## Quick Start
+<br />
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/purity-ui-dashboard.git`.
-- `npm install`
-- `npm start`
-- [Download from Github](https://github.com/creativetimofficial/purity-ui-dashboard/archive/main.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/purity-ui-dashboard).
+## Quick start
 
-## File Structure
+> UNZIP the sources or clone the private repository. After getting the code, open a terminal and navigate to the working directory, with product source code.
 
-Within the download you'll find the following directories and files:
-
+```bash
+$ # Get the code
+$ git clone https://github.com/creativetimofficial/argon-dashboard-django.git
+$ cd argon-dashboard-django
+$
+$ # Virtualenv modules installation (Unix based systems)
+$ virtualenv env
+$ source env/bin/activate
+$
+$ # Virtualenv modules installation (Windows based systems)
+$ # virtualenv env
+$ # .\env\Scripts\activate
+$
+$ # Install modules - SQLite Storage
+$ pip3 install -r requirements.txt
+$
+$ # Create tables
+$ python manage.py makemigrations
+$ python manage.py migrate
+$
+$ # Start the application (development mode)
+$ python manage.py runserver # default port 8000
+$
+$ # Start the app - custom port
+$ # python manage.py runserver 0.0.0.0:<your_port>
+$
+$ # Access the web app in browser: http://127.0.0.1:8000/
 ```
-purity-ui-dashboard/
-├── .gitattributes
-├── .gitigonore
-├── CHANGELOG.md
-├── commit.sh
-├── gulpfile.js
-├── ISSUE_TEMPLATE.md
-├── jsconfig.json
-├── package-lock.json
-├── package.json
-├── README.md
-├── documentation
-├── node_modules
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── assets
-    │   ├── img
-    │   └── svg
-    ├── components
-    │   ├── Card
-    │   │   ├── Card.js
-    │   │   ├── CardBody.js
-    │   │   └── CardHeader.js
-    │   ├── Charts
-    │   │   ├── BarChart.js
-    │   │   └── LineChart.js
-    │   ├── Configurator
-    │   │   └── Configurator.js
-    │   ├── FixedPlugin
-    │   │   └── FixedPlugin.js
-    │   ├── Footer
-    │   │   └── Footer.js
-    │   ├── Icons
-    │   │   ├── IconBox.js
-    │   │   └── Icons.js
-    │   ├── Layout
-    │   │   ├── MainPanel.js
-    │   │   ├── PanelContainer.js
-    │   │   └── PanelContent.js
-    │   ├── Menu
-    │   │   └── ItemContent.js
-    │   ├── Navbars
-    │   │   ├── Searchbar
-    │   │   │   └── SearchBar.js
-    │   │   ├── AdminNavbar.js
-    │   │   ├── AdminNavbarLinks.js
-    │   │   └── AuthNavbar.js
-    │   ├── Other
-    │   │   ├── BillingRow.js
-    │   │   ├── InvoicesRow.js
-    │   │   └── TransactionRow.js
-    │   ├── Separator
-    │   │   └── Separator.js
-    │   ├── Sidebar
-    │   │   ├── Sidebar.js
-    │   │   └── SidebarHelp.js
-    │   └── Tables
-    │       ├── BillingRow.js
-    │       ├── DashboardTableRow.js
-    │       ├── InvoicesRow.js
-    │       ├── TablesProjectRow.js
-    │       ├── TablesTableRow.js
-    │       ├── TimelineRow.js
-    │       └── TransactionRow.js
-    ├── layouts
-    │   ├── Admin.js
-    │   ├── Auth.js
-    │   └── RTL.js
-    ├── theme
-    │   ├── additions
-    │   │   ├── card
-    │   │   │   ├── Card.js
-    │   │   │   ├── CardBody.js
-    │   │   │   └── CardHeader.js
-    │   │   ├── layout
-    │   │   │   ├── MainPanel.js
-    │   │   │   ├── PanelContainer.js
-    │   │   │   └── PanelContent.js
-    │   ├── components
-    │   │   ├── button.js
-    │   │   ├── link.js
-    │   │   └── drawer.js
-    │   ├── foundations
-    │   │   ├── breakpoints.js
-    │   │   ├── fonts.js
-    │   │   └── text.js
-    │   ├── styles.js
-    │   └── theme.js
-    ├── variables
-    │   ├── charts.js
-    │   └── general.js
-    ├── views
-    │   ├── Dashboard
-    │   │   ├── Billing.js
-    │   │   ├── Dashboard.js
-    │   │   ├── Profile.js
-    │   │   └── Tables.js
-    │   ├── Pages
-    │       ├── SignIn.js
-    │       └── SignUp.js
-    │   └── RTL
-    │       └── RTLPage.js
-    ├── index.js
-    └── routes.js
 
+> Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
+
+<br />
+
+## Documentation
+The documentation for the **Argon Dashboard Django** is hosted at our [website](https://demos.creative-tim.com/argon-dashboard-django/docs/getting-started/getting-started-django.html).
+
+<br />
+
+## Code-base structure
+
+The project is coded using a simple and intuitive structure presented bellow:
+
+```bash
+< PROJECT ROOT >
+   |
+   |-- core/                               # Implements app configuration
+   |    |-- settings.py                    # Defines Global Settings
+   |    |-- wsgi.py                        # Start the app in production
+   |    |-- urls.py                        # Define URLs served by all apps/nodes
+   |
+   |-- apps/
+   |    |
+   |    |-- home/                          # A simple app that serve HTML files
+   |    |    |-- views.py                  # Serve HTML pages for authenticated users
+   |    |    |-- urls.py                   # Define some super simple routes  
+   |    |
+   |    |-- authentication/                # Handles auth routes (login and register)
+   |    |    |-- urls.py                   # Define authentication routes  
+   |    |    |-- views.py                  # Handles login and registration  
+   |    |    |-- forms.py                  # Define auth forms (login and register) 
+   |    |
+   |    |-- static/
+   |    |    |-- <css, JS, images>         # CSS files, Javascripts files
+   |    |
+   |    |-- templates/                     # Templates used to render pages
+   |         |-- includes/                 # HTML chunks and components
+   |         |    |-- navigation.html      # Top menu component
+   |         |    |-- sidebar.html         # Sidebar component
+   |         |    |-- footer.html          # App Footer
+   |         |    |-- scripts.html         # Scripts common to all pages
+   |         |
+   |         |-- layouts/                   # Master pages
+   |         |    |-- base-fullscreen.html  # Used by Authentication pages
+   |         |    |-- base.html             # Used by common pages
+   |         |
+   |         |-- accounts/                  # Authentication pages
+   |         |    |-- login.html            # Login page
+   |         |    |-- register.html         # Register page
+   |         |
+   |         |-- home/                      # UI Kit Pages
+   |              |-- index.html            # Index page
+   |              |-- 404-page.html         # 404 page
+   |              |-- *.html                # All other pages
+   |
+   |-- requirements.txt                     # Development modules - SQLite storage
+   |
+   |-- .env                                 # Inject Configuration via Environment
+   |-- manage.py                            # Start the app - Django default start script
+   |
+   |-- ************************************************************************
 ```
+
+<br />
+
+> The bootstrap flow
+
+- Django bootstrapper `manage.py` uses `core/settings.py` as the main configuration file
+- `core/settings.py` loads the app magic from `.env` file
+- Redirect the guest users to Login page
+- Unlock the pages served by *app* node for authenticated users
+
+<br />
+
+## Recompile CSS
+
+To recompile SCSS files, follow this setup:
+
+<br />
+
+**Step #1** - Install tools
+
+- [NodeJS](https://nodejs.org/en/) 12.x or higher
+- [Gulp](https://gulpjs.com/) - globally 
+    - `npm install -g gulp-cli`
+- [Yarn](https://yarnpkg.com/) (optional) 
+
+<br />
+
+**Step #2** - Change the working directory to `assets` folder
+
+```bash
+$ cd apps/static/assets
+```
+
+<br />
+
+**Step #3** - Install modules (this will create a classic `node_modules` directory)
+
+```bash
+$ npm install
+// OR
+$ yarn
+```
+
+<br />
+
+**Step #4** - Edit & Recompile SCSS files 
+
+```bash
+$ gulp scss
+```
+
+The generated file is saved in `static/assets/css` directory.
+
+<br /> 
+
+## Deployment
+
+The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
+
+### [Docker](https://www.docker.com/) execution
+---
+
+The application can be easily executed in a docker container. The steps:
+
+> Get the code
+
+```bash
+$ git clone https://github.com/creativetimofficial/argon-dashboard-django.git
+$ cd argon-dashboard-django
+```
+
+> Start the app in Docker
+
+```bash
+$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
+
+<br />
 
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+
+<br />
 
 ## Resources
 
-- Demo: <https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?ref=readme-pud>
-- Download Page: <https://www.creative-tim.com/product/purity-ui-dashboard?ref=readme-pud>
-- License Agreement: <https://www.creative-tim.com/license?ref=readme-pud>
-- Support: <https://www.creative-tim.com/contact-us?ref=readme-pud>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/purity-ui-dashboard/issues)
+- Demo: <https://www.creative-tim.com/live/argon-dashboard-django>
+- Download Page: <https://www.creative-tim.com/product/argon-dashboard-django>
+- Documentation: <https://demos.creative-tim.com/argon-dashboard-django/docs/1.0/getting-started/getting-started-django.html>
+- License Agreement: <https://www.creative-tim.com/license>
+- Support: <https://www.creative-tim.com/contact-us>
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard-django/issues)
+
+<br />
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Purity UI Dashboard. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the **Argon Dashboard Django**. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Purity UI Dashbaord. Check the CHANGELOG from your dashboard on our [CHANGE LOG File](https://github.com/creativetimofficial/purity-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-pud).
+1. Make sure that you are using the latest version of the **Argon Dashboard Django**. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+3. Some issues may be browser-specific, so specifying in what browser you encountered the issue might help.
+
+<br />
+
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+
+<br />
 
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=readme-pud)
+- Copyright 2019 - present [Creative Tim](https://www.creative-tim.com/)
+- Licensed under [Creative Tim EULA](https://www.creative-tim.com/license)
 
-- Creative Tim License (https://www.creative-tim.com/license)
+<br />
 
 ## Useful Links
 
+- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-pud) (earn money)
-- [Blog Creative Tim](http://creative-tim.com/blog?ref=readme-pud)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-pud) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=readme-pud) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=readme-pud) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=readme-pud) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=readme-pud) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=readme-pud) from Creative Tim
-- [More products](https://simmmple.gumroad.com?ref=readme-pud) from Simmmple
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=readme-pud)
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
-### Social Media - Creative Tim
+<br />
 
-Twitter: <https://twitter.com/CreativeTim>
+## Social Media
 
-Facebook: <https://www.facebook.com/CreativeTim>
+- Twitter: <https://twitter.com/CreativeTim>
+- Facebook: <https://www.facebook.com/CreativeTim>
+- Dribbble: <https://dribbble.com/creativetim>
+- Instagram: <https://www.instagram.com/CreativeTimOfficial>
 
-Dribbble: <https://dribbble.com/creativetim>
+<br />
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
-
-### Social Media - Simmmple
-
-Twitter: <https://twitter.com/simmmple_web>
-
-Facebook: <https://www.facebook.com/simmmple.web>
-
-Dribbble: <https://dribbble.com/simmmple>
-
-Instagram: <https://www.instagram.com/simmmple.web>
+---
+[Argon Dashboard - Django Template](https://www.creative-tim.com/product/argon-dashboard-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us)
